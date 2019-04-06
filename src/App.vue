@@ -1,6 +1,6 @@
 <template>
     <div>
-        <mt-header fixed title="heima"></mt-header>
+        <mt-header fixed title="heima-hhh"></mt-header>
          <nav class="mui-bar mui-bar-tab">
             <a class="mui-tab-item mui-active" href="#tabbar">
                 <span class="mui-icon mui-icon-home"></span>
@@ -27,6 +27,7 @@ export default {
   data () {
     return {
     };
+    
   }
 }
 </script>
